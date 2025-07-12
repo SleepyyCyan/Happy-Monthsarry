@@ -20,7 +20,7 @@ let m8 = document.querySelector('.m8');
 let m9 = document.querySelector('.m9');
 let m10 = document.querySelector('.m10');
 
-let storePassword = '0'
+let storePassword = '05102024'
 
 btnLogin.addEventListener('click', () => {
   password = passwordInput.value;
